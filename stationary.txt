@@ -6,4 +6,7 @@ pen
 pencil
 paper clips
 stapler
+sharpeners
+thumbtacks
 sticky notes
+
